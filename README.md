@@ -19,4 +19,8 @@ To run the network scanner, use the following command in your terminal:
 
 python network_scanner.py <target> [-p <ports>] [--os] [--topology] [--protocol]
 
+Contributing
+
+Contributions are welcome! If you find a bug or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
     
